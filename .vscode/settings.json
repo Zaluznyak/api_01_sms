@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "l:\\Dev\\api_01_sms\\venv\\Scripts\\python.exe",
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}
